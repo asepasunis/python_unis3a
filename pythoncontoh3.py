@@ -1,1 +1,1 @@
-adenurul
+print("dari nurul")
