@@ -1,1 +1,1 @@
-print("python update file baru")
+print("python update file terkini")
